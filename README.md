@@ -11,13 +11,27 @@ A base conceitual deste projeto fundamenta-se nos pilares de:
 
 ---
 
-## 📚 Fontes Curadas
-Para este estudo, foram selecionadas as seguintes fontes (alinhadas ao pensamento de Feldberg):
+## 📚 Fontes de Dados
 
-1. **Guia de Educação Financeira (BCB):** Material oficial do Banco Central do Brasil sobre gestão de riscos e economia pessoal.
-2. **Princípios de Economia Popular:** Artigos sobre como economizar no cotidiano e evitar armadilhas de crédito (Ex: Serasa Ensina).
-3. **E-book: O Guia do Poupador Iniciante:** (Material adaptado com base nos vídeos do canal Primo Pobre).
-4. **Educação Financeira - ENEF:** Estratégia Nacional de Educação Financeira para brasileiros.
+### 📄 Documentos e E-books (PDF)
+Estes são os materiais fixos que servem de base teórica para o NotebookLM:
+1. **Livro: "Deixe de ser Pobre" (Eduardo Feldberg):** Manual principal sobre mentalidade e comportamento financeiro.
+2. **Caderno de Educação Financeira - Gestão de Finanças Pessoais (Banco Central):** Guia oficial com linguagem simples sobre orçamento, consumo planejado e poupança.
+3. **Guia "Como Sair das Dívidas em 10 Passos" (Meu Bolso em Dia):** Roteiro prático para negociação de débitos e limpeza de nome.
+
+### 🌐 Conteúdo Digital e Mídia
+Canais e blogs utilizados para contextualização e exemplos reais:
+* **Canal Youtube Nath Finanças:** Organização de renda baixa e economia doméstica.
+* **Canal Youtube Primo Pobre:** Amortização, reserva de emergência e realidade brasileira.
+* **Canal e Blog Serasa Ensina:** Gestão de CPF, Score e direitos do consumidor.
+
+---
+
+## 🤖 Prompts Estratégicos
+Exemplos de como extrair sabedoria deste caderno:
+* *"Com base no Caderno do Banco Central e na visão do Primo Pobre, qual a diferença real entre necessidade e desejo no consumo?"*
+* *"Como a Nath Finanças sugere que uma pessoa com dívidas no Serasa priorize seus pagamentos mensais?"*
+* *"Crie um plano de reserva de emergência de 6 meses baseado na estratégia de amortização citada por Eduardo Feldberg."*
 
 ---
 
